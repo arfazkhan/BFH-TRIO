@@ -1,6 +1,6 @@
 ![TRIO SHOPPING](https://github.com/arfazkhan/BFH-TRIO/blob/master/TRIOintro.gif)
 # BFH-TRIO
-  TRIO is an upcoming shopping application in which virtual shopping is redefined. It is just a simple fashion shopping app developed with flutter. The main focus of this project was to make a simple and minimal UI and enrich the application with a seamless shopping experience. The app has got the options to navigate through different categories, filter out preferences, add a product in favourites, view cart, checkout and more. This app boasts of an upcoming feature of getting trials up to 5 items before payment. 
+  TRIO is an upcoming shopping application in which virtual shopping is redefined. It is just a simple fashion shopping app developed with flutter. The main focus of this project was to make a simple and minimal UI and enrich the application with a seamless shopping experience. The app has got the options to navigate through different categories, filter out preferences, add a product in favourites, view cart, checkout and more. This app boasts of an upcoming feature of getting trials up to 5 items before payment. Currently, TRIO is still under development and the uploaded code is just a working prototype that is yet to be completely functional. Stay tuned for the upcoming updates :)
 
 ## TRIO DEVELOPERS
   1. Fathima Farha (https://github.com/FathimaFarha)
@@ -13,7 +13,7 @@
   (https://)
   
 ## How TRIO Works?
-  TRIO shopping app was mainly focused on UI. Therefore, only a little preference was given to UX. TRIO has got different pages for each function, each functions redirects to its respective pages. The basic hierarchy of the project:\
+  TRIO shopping app was solely focused on UI during its initial stages. Therefore, only a little preference was given to UX. TRIO has got different pages for each function, each functions redirects to its respective pages. The basic hierarchy of the project:\
   -Splash Screen\
   -Intro\
   -Signup/Signin\
@@ -23,8 +23,8 @@
   -Product Description\
   -Favourites\
   -Cart\
-  -Payment
-
+  -Payment\
+  
 ## Libraries used
   To develop TRIO folowing libraries weere used exclusively throughout the project:\
     adobe_xd: ^2.0.0+1\
@@ -38,4 +38,4 @@
    You may download the apk file from the link and install it on your device\
       https://drive.google.com/file/d/1kYYJkBTaWG2VgeFIBUhxAKte-ezmI7jR/view?usp=sharing
    
-   Alternatively, you can clone this project in your IDE and debug or run through your terminal.
+   Alternatively, you can clone this project in your IDE and debug or run it through your terminal.
