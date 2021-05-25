@@ -20,7 +20,7 @@ During the first phase of the project, we researched the needs, the requirements
   (https://)
   
 ## How TRIO Works?
-  TRIO shopping app was solely focused on UI during its initial stages. Therefore, only a little preference was given to UX. TRIO has got different pages for each function, each functions redirects to its respective pages. The basic hierarchy of the project:\
+  TRIO shopping app was solely focused on UI during its initial stages. Therefore, only a little preference was given to the development. TRIO has got different pages for each function, each function redirects to its respective pages. The project is structured systematically and minimally:\
   -Splash Screen\
   -Intro\
   -Signup/Signin\
