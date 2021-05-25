@@ -2,11 +2,11 @@
 # TRIO
   TRIO is an upcoming shopping application in which virtual shopping is redefined. It is just a simple fashion shopping app developed with flutter. The main focus of this project was to make a simple and minimal UI and enrich the application with a seamless shopping experience. The app has got the options to navigate through different categories, filter out preferences, add a product in favourites, view cart, checkout and more. This app boasts of an upcoming feature of getting trials up to 5 items before payment. Currently, TRIO is still under development and the uploaded code is just a working prototype that is yet to be completely functional. Stay tuned for the upcoming updates :)
 
-Why TRIO?
-As physical shopping comes with certain limitaions today, due to the pandemic and it limits the customer from stepping outside their house. Moreover, in todays virtual era, people tend to opt for virtuasl shopping. Hence, TRIO.
+Why TRIO?\
+Physical shopping comes with certain limitations today, due to the pandemic and it limits the customer from stepping outside their house. Moreover, in today's virtual era, people tend to opt for virtual shopping. Hence, TRIO.
 
-So when we initially began with this project, we were basically newbies to almost everything be it the design, product development and so on. Tinker Hub- Build From Home gave us the opportunity to explore certain areas within a stipulated time period of 10 days. Those 10 days were actually fun and enabled and inspired us to learn something new.
-During the first phase of the project we researched about the needs, the requirements and pretty much everything. Then we spened more time designing and making a perfecting UI using Adobe XD. We did not stop there, we further continued with the development of a prototype version and succeded marginally. Given the time constraint, we released the prototype and are expecting the feedback from real users like you and with your feedback we would be improving and developing the app further.   
+So when we initially began with this project, we were newbies to almost everything be it the design, product development, and so on. Tinker Hub- Build From Home allowed us to explore certain areas within a stipulated period of 10 days. Those 10 days were fun and enabled and inspired us to learn something new.
+During the first phase of the project, we researched the needs, the requirements, and pretty much everything. Then we spent more time designing and perfecting the UI using Adobe XD. We did not stop there, we further continued with the development of a prototype version and succeeded marginally. Given the time constraint, we released the prototype and are expecting feedback from real users like you, and with your feedback, we would be improving and developing the app further.   
 
 
 ## TRIO DEVELOPERS
