@@ -1,5 +1,5 @@
 ![TRIO SHOPPING](https://github.com/arfazkhan/BFH-TRIO/blob/master/TRIOintro.gif)
-# BFH-TRIO
+# TRIO
   TRIO is an upcoming shopping application in which virtual shopping is redefined. It is just a simple fashion shopping app developed with flutter. The main focus of this project was to make a simple and minimal UI and enrich the application with a seamless shopping experience. The app has got the options to navigate through different categories, filter out preferences, add a product in favourites, view cart, checkout and more. This app boasts of an upcoming feature of getting trials up to 5 items before payment. Currently, TRIO is still under development and the uploaded code is just a working prototype that is yet to be completely functional. Stay tuned for the upcoming updates :)
 
 ## TRIO DEVELOPERS
@@ -24,7 +24,8 @@
   -Favourites\
   -Cart\
   -Payment\
-  
+  Another distinctive remark of TRIO is that most of the UX part was done using the "adobe_xd" plugin. This approach was intended for educational and testing purposes. As the app is still under development, we will be adding more features and making it completely functional using firebase and other plugins.
+
 ## Libraries used
   To develop TRIO folowing libraries weere used exclusively throughout the project:\
     adobe_xd: ^2.0.0+1\
@@ -36,6 +37,6 @@
   
 ## How to Run TRIO
    You may download the apk file from the link and install it on your device\
-      https://drive.google.com/file/d/1kYYJkBTaWG2VgeFIBUhxAKte-ezmI7jR/view?usp=sharing
+     
    
    Alternatively, you can clone this project in your IDE and debug or run it through your terminal.
