@@ -26,7 +26,7 @@
   -Payment
 
 ## Libraries used
-  To develop this TRIO folowing libraries weere used exclusively throughout the project:\
+  To develop TRIO folowing libraries weere used exclusively throughout the project:\
     adobe_xd: ^2.0.0+1\
     flutter_svg: ^0.21.0+1\
     async: ^2.6.1
