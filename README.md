@@ -1,4 +1,4 @@
-![TRIO SHOPPING](https://github.com/arfazkhan/BFH-TRIO/blob/master/TRIO%20intro.gif)
+![TRIO SHOPPING](https://github.com/arfazkhan/BFH-TRIO/blob/master/TRIOintro.gif)
 # BFH-TRIO
   TRIO is an upcoming shopping application in which virtual shopping is redefined. It is just a simple fashion shopping app developed with flutter. The main focus of this project  was to make a simple and minimal UI and enrich the application with seamless shopping experience. The app has got the options to navigate through different categories, filter out  prefernces, add a product in favourites, view cart, checkout and more. This app boasts of an upcoming feature of getting trials upto 5 items before payment. 
 
