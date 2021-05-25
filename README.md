@@ -40,7 +40,7 @@ During the first phase of the project, we researched the needs, the requirements
     async: ^2.6.1
     
 ## How to configure
-  Setting up and configuring this project is pretty easy. Just clone this repository update the plugins and you are good to go. As this project does not use firebase at the moment, you can neglect setting up your firebase server.
+  Setting up and configuring this project is pretty easy. Clone this repository, update the plugins and you are good to go. As this project does not use firebase at the moment, you can neglect setting up your firebase.
   
 ## How to Run TRIO
    You may download the apk file from the link and install it on your device\
