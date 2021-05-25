@@ -27,7 +27,7 @@
   Another distinctive remark of TRIO is that most of the UX part was done using the "adobe_xd" plugin. This approach was intended for educational and testing purposes. As the app is still under development, we will be adding more features and making it completely functional using firebase and other plugins.
 
 ## Libraries used
-  To develop TRIO folowing libraries weere used exclusively throughout the project:\
+  To develop TRIO folowing libraries were used exclusively throughout the project:\
     adobe_xd: ^2.0.0+1\
     flutter_svg: ^0.21.0+1\
     async: ^2.6.1
