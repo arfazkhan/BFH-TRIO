@@ -18,7 +18,8 @@ During the first phase of the project, we researched the needs, the requirements
   
 ## TRIO walkthrough
   
-  https://drive.google.com/file/d/1dOWJmJjdig17vfoFdGoy9YIuFeLvAmRN/view?usp=sharing
+ APP Promo: https://drive.google.com/file/d/1dOWJmJjdig17vfoFdGoy9YIuFeLvAmRN/view?usp=sharing
+ APP Walkthrough: 
   
 ## How TRIO Works?
   TRIO shopping app was solely focused on UI during its initial stages. Therefore, only a little preference was given to the development. TRIO has got different pages for each function, each function redirects to its respective pages. The project is structured systematically and minimally:\
@@ -33,6 +34,8 @@ During the first phase of the project, we researched the needs, the requirements
   -Cart\
   -Payment\
   Another distinctive remark of TRIO is that most of the development was done using the "adobe_xd" plugin. This approach was intended for educational and testing purposes. As of now the app is still under development, we will be adding more features and making it completely functional using firebase and other plugins.
+  
+  Code Walkthrough: https://drive.google.com/file/d/1U15fSkrb4OrmcXcudxtyb6urC6JnPDfD/view?usp=sharing
 
 ## Libraries used
   To develop TRIO folowing libraries were used exclusively throughout the project:\
@@ -45,6 +48,6 @@ During the first phase of the project, we researched the needs, the requirements
   
 ## How to Run TRIO
    You may download the apk file from the link and install it on your device\
-     
+     https://drive.google.com/file/d/12L-rPxwg593fcW9zCN7wzQH869D4kGwj/view?usp=sharing
    
-   Alternatively, you can clone this project in your IDE and debug or run it through your terminal.
+   Alternatively, you can clone this repository in your IDE and debug or run it through your terminal.
