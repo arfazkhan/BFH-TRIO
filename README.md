@@ -17,7 +17,7 @@ During the first phase of the project, we researched the needs, the requirements
     BFH/rec8qmOug5EbvFf2I/2021
   
 ## TRIO walkthrough
-  (https://)
+  (https://drive.google.com/file/d/1dOWJmJjdig17vfoFdGoy9YIuFeLvAmRN/view?usp=sharing)
   
 ## How TRIO Works?
   TRIO shopping app was solely focused on UI during its initial stages. Therefore, only a little preference was given to the development. TRIO has got different pages for each function, each function redirects to its respective pages. The project is structured systematically and minimally:\
