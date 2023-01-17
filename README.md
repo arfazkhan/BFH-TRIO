@@ -12,8 +12,9 @@ During the first phase of the project, we researched the needs, the requirements
 
 
 ## TRIO DEVELOPERS
-  1. Fathima Farha (https://github.com/FathimaFarha)
-  2. Musafir Khan (https://github.com/musafirkhan)
+  1. Arfaz Khan (https://github.com/arfazkhan) 
+  2. Fathima Farha (https://github.com/FathimaFarha)
+  3. Musafir Khan (https://github.com/musafirkhan)
 
 ## BFH-TRIO Team Id
     BFH/rec8qmOug5EbvFf2I/2021
